@@ -2,7 +2,7 @@
 
 ## Clone this repo
 ```
-https://github.com/samironbarai/laravel-socialite.git
+https://github.com/Irvan1998/laravel-socialite.git
 ```
 
 ## Install composer packages
@@ -36,11 +36,3 @@ Put all ids and secrets in .env file
 $ php artisan migrate
 ```
 
-## Facing any problem? Contact with me
-
-Click on the image bellow to see YouTube video.
-
-[![Laravel 7 Blog CMS](https://img.youtube.com/vi/jIckLu1cKew/0.jpg)](https://www.youtube.com/watch?v=jIckLu1cKew) 
-
-Please visit my website.
-[samironbarai.com](https://samironbarai.com) 
